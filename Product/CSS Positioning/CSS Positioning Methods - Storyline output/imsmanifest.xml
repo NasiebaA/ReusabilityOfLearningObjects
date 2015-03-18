@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6HbWaTShH6f_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">CSS Positioning Methods</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">A short interactive course, to teach the learner the different positioning methods of the CSS language. The course includes a short quiz with useful user feedback. The course is aimed at first year undergraduate computing related students. </langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H10M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="CSS_Positioning_Methods_ORG">
+    <organization identifier="CSS_Positioning_Methods_ORG">
+      <title>CSS Positioning Methods</title>
+      <item identifier="CSS_Positioning_Methods_SCO" isvisible="true" identifierref="__6HbWaTShH6f_course_id_RES">
+        <title>CSS Positioning Methods</title>
+        <adlcp:masteryscore>60</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6HbWaTShH6f_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/6GRrjOFDLeq_22050_48.mp3" />
+      <file href="story_content/5mhFNbFXrvh_80_DX574_DY574.swf" />
+      <file href="story_content/5mhFNbFXrvh_80_P_0_8_287_20_DX574_DY574.swf" />
+      <file href="story_content/6UQYZPH3xFo_80_P_0_0_124_9_DX248_DY248.swf" />
+      <file href="story_content/5mhFNbFXrvh_80_P_0_14_287_14_DX574_DY574.swf" />
+      <file href="story_content/6UQYZPH3xFo_80_P_0_5_124_13_DX248_DY248.swf" />
+      <file href="story_content/67yTDYT3Q7V_22050_48.mp3" />
+      <file href="story_content/6iDS8TvlyNH_22050_48.mp3" />
+      <file href="story_content/6p1B7uyL68a_22050_48.mp3" />
+      <file href="story_content/664GSFDQPrq_80_DX222_DY222.swf" />
+      <file href="story_content/6Vu1H1WuiVp_22050_48.mp3" />
+      <file href="story_content/65n83pkyOZj_22050_48.mp3" />
+      <file href="story_content/Shape6fBCZ9FNrjQ.swf" />
+      <file href="story_content/6nFFSzrLfYi_22050_48.mp3" />
+      <file href="story_content/Shape5XL2EIk2bIg.swf" />
+      <file href="story_content/6FDSy9R1YCf_22050_48.mp3" />
+      <file href="story_content/ae485220-1f0d-43e6-89d6-645da43356fb.swf" />
+      <file href="story_content/d5a1df09-9627-4f59-9833-80b6c49b75e2.swf" />
+      <file href="story_content/video_6naot6Qz0r0_20_48_1376x736.mp4" />
+      <file href="story_content/209b6925-0df2-46d4-9e57-80de6bbc3e50.swf" />
+      <file href="story_content/video_5oXBHOkgdlc_20_48_1376x736.mp4" />
+      <file href="story_content/15793b60-ed87-4d64-b5f1-daed12cf9d56.swf" />
+      <file href="story_content/047bd513-0323-4f6b-9a0c-82290cc5f242.swf" />
+      <file href="story_content/video_5f0fjDXg91p_20_48_1376x736.mp4" />
+      <file href="story_content/4faa6909-4e15-43fc-87ff-e1d500087880.swf" />
+      <file href="story_content/4eb64255-c519-4cc2-92fb-d49c2106a2a4.swf" />
+      <file href="story_content/video_6a9JFRRtDso_20_48_1376x736.mp4" />
+      <file href="meta.xml" />
+      <file href="story_content/frame.xml" />
+      <file href="story_content/FontFactory.swf" />
+      <file href="story_content/fonts.swf" />
+      <file href="story.swf" />
+      <file href="story_content/frame.swf" />
+      <file href="story_content/slides/6I7EoAxeHz5.swf" />
+      <file href="story_content/slides/5aSkWTc3eNW.swf" />
+      <file href="story_content/slides/6DliRV23fn9.swf" />
+      <file href="story_content/slides/5tVUNd07zS4.swf" />
+      <file href="story_content/slides/5kCnOu4ISLt.swf" />
+      <file href="story_content/slides/5eY4EnjooiI.swf" />
+      <file href="story_content/slides/6KyDjxOpZln.swf" />
+      <file href="story_content/slides/5hchQ80cq1F.swf" />
+      <file href="story_content/slides/5ywdaw7s2aK.swf" />
+      <file href="story_content/slides/5ZiZ5noWrq3.swf" />
+      <file href="story_content/slides/5pymVzQRXXJ.swf" />
+      <file href="story_content/slides/63Us53A2OTt.swf" />
+      <file href="story_content/slides/6UCk6E0hD3F.swf" />
+      <file href="story_content/slides/6IuxZt8OF8F.swf" />
+      <file href="story_content/slides/643UTlNrklx.swf" />
+      <file href="story_content/slides/6VWKyx4GmTA.swf" />
+      <file href="story_content/slides/6BSXiQ64oA9.swf" />
+      <file href="story_content/slides/61iP5WVBN9x.swf" />
+      <file href="story_content/slides/6rf5ZEkbw6q.swf" />
+      <file href="story_content/slides/5dM0E99SjYE.swf" />
+      <file href="story_content/data.swf" />
+      <file href="story.html" />
+      <file href="story_content/blank.html" />
+      <file href="launcher.html" />
+      <file href="story_content/orange_launch_normal.gif" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>

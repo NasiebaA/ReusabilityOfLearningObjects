@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1"
+xmlns:xsi ="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+<general>
+  <title>
+     <langstring xml:lang="x-none">Basic Logic Gates </langstring>
+  </title>
+  <catalogentry>
+     <catalog>TBD</catalog>
+     <entry>
+        <langstring xml:lang="x-none">TBD</langstring>
+     </entry>
+  </catalogentry>
+  <description>
+     <langstring xml:lang="x-none">A short course, to teach the learner how six basic digital logic gates functions by using interactive truth tables and Boolean notations. The learner knowledge is text through an interactive quiz, with useful user feedback. The course is aimed at first year undergraduate computing related students. </langstring>
+  </description>
+            <keyword>
+     <langstring xml:lang="x-none">Basic Logic Gates</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Author: Nasieba Anwar</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Logic Gates</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Computer Fundamentals</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">And</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Not</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Or</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Nand</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Nor</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Xor</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Boolean Notation</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Truth Tables</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Quiz</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Interactivity</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Animation Transitions</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Text Entry</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Drag and Drop</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Selection</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Learning Object</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Reusable Learning Objects</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">RLO</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">ELearning</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Audience: 1st year Computing Student</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Audience: Higher Education</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Software: Articulate Storyline2</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Manchester Metropolitan University</langstring>            </keyword>
+            <keyword>
+     <langstring xml:lang="x-none">Creative Commons: By</langstring>            </keyword>
+</general>
+<lifecycle>
+  <version>
+     <langstring xml:lang="x-none">1.0</langstring>
+  </version>
+  <status>
+        <source>
+           <langstring xml:lang="x-none">LOMv1.0</langstring>
+        </source>
+        <value>
+           <langstring xml:lang="x-none">Final</langstring>
+        </value>
+  </status>
+</lifecycle>
+<metametadata>
+  <metadatascheme>LOM-1.0</metadatascheme>
+</metametadata>
+<technical>
+  <format>graphics/gif</format>
+  <format>graphics/jpg</format>
+  <format>text/html</format>
+  <location>./</location>
+</technical>
+<rights>
+ <cost>
+       <source>
+          <langstring xml:lang="x-none">LOMv1.0</langstring>
+       </source>
+       <value>
+          <langstring xml:lang="x-none">no</langstring>
+       </value>
+ </cost>
+ <copyrightandotherrestrictions>
+       <source>
+          <langstring xml:lang="x-none">LOMv1.0</langstring>
+       </source>
+       <value>
+          <langstring xml:lang="x-none">yes</langstring>
+       </value>
+ </copyrightandotherrestrictions>
+ <description>
+    <langstring xml:lang="x-none">All rights reserved</langstring>
+ </description>
+</rights>
+<classification>
+ <purpose>
+       <source>
+          <langstring xml:lang="x-none">LOMv1.0</langstring>
+       </source>
+       <value>
+          <langstring xml:lang="x-none">Educational Objective</langstring>
+       </value>
+ </purpose>
+ <description>
+    <langstring xml:lang="x-none">Learning Content</langstring>
+ </description>
+ <keyword>
+    <langstring xml:lang="x-none">Basic Logic Gates, Author: Nasieba Anwar, Logic Gates, Computer Fundamentals, And, Not, Or, Nand, Nor, Xor, Boolean Notation, Truth Tables, Quiz, Interactivity, Animation Transitions, Text Entry, Drag and Drop, Selection, Learning Object, Reusable Learning Objects, RLO, ELearning, Audience: 1st year Computing Student, Audience: Higher Education, Software: Articulate Storyline2, Manchester Metropolitan University, Creative Commons: By</langstring>
+ </keyword>
+</classification>
+</lom>

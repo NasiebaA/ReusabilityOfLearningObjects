@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is a Reload version 2.5.6 SCORM 1.2 Content Package document-->
+<!--Spawned from the Reload Content Package Generator - http://www.reload.ac.uk-->
+<manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" identifier="MANIFEST-CBBB66A294123087FB0D53827F681BF8" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <organizations default="ORG-E4333390D82B605CDE6B7A7861EE9B87">
+    <organization identifier="ORG-E4333390D82B605CDE6B7A7861EE9B87" structure="hierarchical">
+      <title>Baisc of video encoding</title>
+      <item identifier="ITEM-08DDC7349A508612E63D7EE96B9A8EF6" identifierref="RES-6A61705FFA859ADB1A7D81436D56627E" isvisible="true">
+        <title>Encoding 101 video</title>
+      </item>
+      <item identifier="ITEM-C7733BD9DAA3A1D45603B779D2FB426E" identifierref="RES-9EABBDDA2C246C87D206A559F88BC4B8" isvisible="true">
+        <title>Video encoding quiz</title>
+      </item>
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+      </metadata>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-9EABBDDA2C246C87D206A559F88BC4B8" type="webcontent" href="Quiz/Video%20Encoding%20Quiz%20-%20Storyline%20output/index_lms.html" adlcp:scormtype="sco">
+      <file href="Quiz/Video%20Encoding%20Quiz%20-%20Storyline%20output/index_lms.html" />
+      <file href="Quiz/Video%20Encoding%20Quiz%20-%20Storyline%20output/lms/AICCComm.html" />
+      <file href="Quiz/Video%20Encoding%20Quiz%20-%20Storyline%20output/lms/AICCFunctions.js" />
+      <file href="Quiz/Video%20Encoding%20Quiz%20-%20Storyline%20output/lms/API.js" />
+      <file href="Quiz/Video%20Encoding%20Quiz%20-%20Storyline%20output/lms/APIConstants.js" />
+      <file href="Quiz/Video%20Encoding%20Quiz%20-%20Storyline%20output/lms/blank.html" />
+      <file href="Quiz/Video%20Encoding%20Quiz%20-%20Storyline%20output/lms/browsersniff.js" />
+      <file href="Quiz/Video%20Encoding%20Quiz%20-%20Storyline%20output/lms/Configuration.js" />
+      <file href="Quiz/Video%20Encoding%20Quiz%20-%20Storyline%20output/lms/LMSAPI.js" />
+      <file href="Quiz/Video%20Encoding%20Quiz%20-%20Storyline%20output/lms/NONEFunctions.js" />
+      <file href="Quiz/Video%20Encoding%20Quiz%20-%20Storyline%20output/lms/SCORM2004Functions.js" />
+      <file href="Quiz/Video%20Encoding%20Quiz%20-%20Storyline%20output/lms/SCORMFunctions.js" />
+      <file href="Quiz/Video%20Encoding%20Quiz%20-%20Storyline%20output/lms/UtilityFunctions.js" />
+    </resource>
+    <resource identifier="RES-6A61705FFA859ADB1A7D81436D56627E" type="webcontent" href="Video/Encoding%20101%20-%20learn%20the%20basics%20of%20video%20encoding.mp4" adlcp:scormtype="sco">
+      <file href="Video/Encoding%20101%20-%20learn%20the%20basics%20of%20video%20encoding.mp4" />
+    </resource>
+  </resources>
+</manifest>
+
